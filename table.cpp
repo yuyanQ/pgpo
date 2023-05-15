@@ -9,7 +9,7 @@
 #include <vector>
 #include <string>
 #include <iostream>
-#include <stdio.h>virtual ~dame();
+#include <stdio.h>
 #include <algorithm>
 #include "table.h"
 using namespace std;
